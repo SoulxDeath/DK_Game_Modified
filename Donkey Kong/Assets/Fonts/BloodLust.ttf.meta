@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebdea579330104249811b84205a23e14
+timeCreated: 1517882835
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blood Lust
+  fontNames:
+  - Blood Lust
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
